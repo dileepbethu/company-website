@@ -17,7 +17,7 @@ A responsive website for **Plyomed**, featuring a **hero section**, **services**
 - Responsive design principles  
 
 ## 📷 Preview  
-website screenshot *(Replace with actual screenshot URL)*  
+![Website Preview](your-image-url-here) *(Replace with actual screenshot URL)*  
 
 ## 🚀 Getting Started  
 1. Clone the repository:  
