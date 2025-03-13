@@ -27,5 +27,5 @@ your-image-url-here ----->   (https://github.com/dileepbethu/company-website/com
 2. Open `index.html` in your browser  
 
 ## 📩 Contact  
-For inquiries, visit [Plyomed](https://plyomed.com) or email **info@plyomed.com**  
+For inquiries, visit [Plyomed](https://plyomed.com) 
 
