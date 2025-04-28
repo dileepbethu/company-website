@@ -22,7 +22,7 @@ your-image-url-here ----->   (https://github.com/dileepbethu/company-website/com
 ## 🚀 Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/plyomed-website.git
+   git clone https://github.com/dileepbethu/plyomed-website.git
    ```
 2. Open `index.html` in your browser  
 
